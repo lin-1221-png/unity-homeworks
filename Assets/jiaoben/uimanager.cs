@@ -5,6 +5,7 @@ public class uimanager : MonoBehaviour
     [Header("配置界面")]
     public GameObject beibao;
     public GameObject hecheng;
+   
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
